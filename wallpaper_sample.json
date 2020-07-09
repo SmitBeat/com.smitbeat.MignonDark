@@ -1,0 +1,66 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/01.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/01.png",
+				"name": "Wallpaper 1"
+
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/02.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/02.png",
+				"name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/03.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/03.png",
+				"name": "Wallpaper 3"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/04.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/04.png",
+				"name": "Wallpaper 4"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/05.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/05.png",
+				"name": "Wallpaper 5"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/06.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/06.png",
+				"name": "Wallpaper 6"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/07.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/07.png",
+				"name": "Wallpaper 7"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/08.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/08.png",
+				"name": "Wallpaper 8"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/09.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/09.png",
+				"name": "Wallpaper 9"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/10.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.MignonDark/master/10.png",
+				"name": "Wallpaper 10"
+			}
+		]
+}
